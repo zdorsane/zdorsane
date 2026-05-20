@@ -1,151 +1,225 @@
-<!-- BANNER -->
-<h1 align="center">
-  Hi 👋, I'm Zertit Dorsane
-</h1>
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zertit%20Dorsane&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Biotech%20Engineer%20×%20Full-Stack%20Dev%20×%20UI/UX%20Designer&descAlignY=58&descSize=18" width="100%"/>
 
-<h3 align="center">
-  🧬 Biotech Engineer × 💻 Full-Stack Developer × 🎨 UI/UX Designer
-</h3>
+</div>
 
-<p align="center">
-  <em>Building AI tools for drug screening & oncology — where life sciences meet code.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zdorsane&label=Profile%20views&color=6f42c1&style=flat-square" alt="profile views" />
-  <a href="https://v0-portfoliobiotech31-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" />
+<!-- ============ TYPING ANIMATION ============ -->
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🧬+Biotech+Engineer+turned+Web+Developer;🤖+Building+AI+tools+for+Drug+Screening+%26+Oncology;🎨+Crafting+modern+UI%2FUX+with+Figma+%26+React;✨+Where+Life+Sciences+meet+Code" alt="Typing SVG" />
   </a>
-  <a href="mailto:zdorsane223@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D44638?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
 
----
+</div>
 
-### 🚀 About Me
+<!-- ============ SOCIAL BADGES ============ -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=zdorsane&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zdorsane?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1a2e" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20×%20Biotech-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="focus" />
 
-```yaml
-name: Zertit Dorsane
-role: Biotech Engineer & Web Developer
-location: Constantine, Algeria 🇩🇿
-focus:
-  - 🔬 AI/ML for drug screening & oncology
-  - 🌐 Full-stack web development
-  - 🎨 UI/UX design with Figma
-current_project: "Twin — ML model for drug screening"
-leadership: "Leader @ TechWaves Club, ENSB"
-fun_fact: "I study biosensors by day, ship websites by night 🧬💻"
+</div>
+
+<br/>
+
+<!-- ============ ABOUT ME ============ -->
+<div align="center">
+  
+  ## 🌌 About Me
+  
+</div>
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```typescript
+const dorsane = {
+    pronouns: "She/Her",
+    location: "Constantine, Algeria 🇩🇿",
+    education: "Biotech Engineering @ ENSB",
+    role: "Full-Stack Dev & UI/UX Designer",
+    
+    currentFocus: [
+        "🧬 ML for drug screening & oncology",
+        "🤖 AI applications in healthcare",
+        "🎨 Modern UI/UX experiences"
+    ],
+    
+    techStack: {
+        frontend: ["React", "Next.js", "Tailwind"],
+        backend:  ["Python", "Django", "Node.js"],
+        ai_ml:    ["TensorFlow", "PyTorch", "Pandas"],
+        design:   ["Figma", "Adobe Suite"]
+    },
+    
+    leadership: "Leader @ TechWaves Club ENSB",
+    
+    funFact: "Studying biosensors by day, " +
+             "shipping websites by night 🧬💻"
+};
 ```
 
----
+<br clear="right"/>
 
-### 💼 What I'm Up To
+<!-- ============ CURRENT WORK ============ -->
+<div align="center">
+  
+  ## ⚡ What I'm Working On
 
-- 🔭 Currently building **[Twin](https://github.com/zdorsane/Twin)** — a Machine Learning project integrating AI into **drug screening & oncology**
-- 🌱 Deepening my skills in **Deep Learning, Spring Boot & AI applications in healthcare**
-- 👯 Open to collaborate on **AI/biotech projects, web apps & UI/UX design**
-- 💬 Ask me about **React, Next.js, Python, Django, Figma & ML for healthcare**
-- 📫 Reach me at **zdorsane223@gmail.com**
+</div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Connect With Me
+### 🧬 Twin Project
+> ML-powered platform integrating AI into **drug screening** and **oncology research**. Bridging computational models with biological insights.
 
-<p align="left">
-  <a href="https://linkedin.com/in/zdorsane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+`Python` `ML` `Healthcare` `Biotech`
+
+🔗 [github.com/zdorsane/Twin](https://github.com/zdorsane/Twin)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Portfolio Biotech & Tech
+> Personal showcase combining scientific projects and creative web design. Built with modern tooling.
+
+`Next.js` `Tailwind` `Framer Motion`
+
+🔗 [Live Demo →](https://v0-portfoliobiotech31-gamma.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+<div align="center">
+  
+  ## 🛠️ Tech Arsenal
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma,ps,ai&perline=10" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,postgres,mysql,firebase&perline=8" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab&perline=8" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,vscode,postman&perline=8" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+<div align="center">
+  
+  ## 📊 GitHub Analytics
+
+  <a href="https://github.com/zdorsane">
+    <img src="https://github-readme-stats.vercel.app/api?username=zdorsane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdorsane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" height="180" />
   </a>
-  <a href="https://github.com/zdorsane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://kaggle.com/zdorsane" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://v0-portfoliobiotech31-gamma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdorsane&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="streak" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=zdorsane&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdorsane&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="95%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+<!-- ============ LEADERSHIP & ACHIEVEMENTS ============ -->
+<div align="center">
+
+## 🏆 Leadership & Community
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h3>🌊 TechWaves Club</h3>
+  <p><b>Leader</b> @ ENSB</p>
+  <p>Running workshops, hackathons & tech events</p>
+</td>
+<td align="center" width="33%">
+  <h3>📱 Huawei</h3>
+  <p><b>Student Ambassador</b></p>
+  <p>Leading campus tech activations</p>
+</td>
+<td align="center" width="33%">
+  <h3>🔧 Google GDSC</h3>
+  <p><b>Google Tools Manager</b></p>
+  <p>Training peers on dev tools</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ CONNECT ============ -->
+<div align="center">
+  
+  ## 🌐 Let's Connect
+
+  <p>Got an interesting AI/Biotech project? A design challenge? <br/>I'd love to hear about it ✨</p>
+
+  <a href="https://linkedin.com/in/zdorsane">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   <a href="mailto:zdorsane223@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-</p>
+  <a href="https://v0-portfoliobiotech31-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+  </a>
+  <a href="https://github.com/zdorsane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  <a href="https://kaggle.com/zdorsane">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
+  </a>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**🎨 Frontend & Design**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</p>
+<!-- ============ QUOTE ============ -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%22Bridging+biology+and+technology%2C+one+project+at+a+time.%22" alt="quote" />
 
-**⚙️ Backend & Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
+</div>
 
-**🤖 AI / Machine Learning**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</p>
-
-**🔧 Tools & Platforms**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zdorsane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zdorsane stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdorsane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdorsane&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zdorsane&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧬 **[Twin](https://github.com/zdorsane/Twin)** | ML model for AI integration in drug screening & oncology | `Python` `ML` `Pandas` |
-| 🌐 **[Portfolio](https://v0-portfoliobiotech31-gamma.vercel.app/)** | Personal Biotech & Tech portfolio | `Next.js` `Tailwind` |
-| 🎓 **[TechWaves](https://techwaves-website.vercel.app/)** | Official site of TechWaves Club ENSB | `React` `Design` |
-
----
-
-<p align="center">
-  <em>💡 "Bridging biology and technology, one project at a time."</em>
-</p>
+<!-- ============ FOOTER WAVE ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

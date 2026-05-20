@@ -1,25 +1,27 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ HEADER BANNIÈRE ROSE GRADIENT ============ -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zertit%20Dorsane&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Biotech%20Engineer%20×%20Full-Stack%20Dev%20×%20UI/UX%20Designer&descAlignY=58&descSize=18" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Dorsane%20Zertit&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=✨%20Biotech%20Engineer%20·%20Web%20Developer%20·%20UI/UX%20Designer%20✨&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
-<!-- ============ TYPING ANIMATION ============ -->
+<!-- ============ TYPING ANIMATION ROSE ============ -->
 <div align="center">
-  
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🧬+Biotech+Engineer+turned+Web+Developer;🤖+Building+AI+tools+for+Drug+Screening+%26+Oncology;🎨+Crafting+modern+UI%2FUX+with+Figma+%26+React;✨+Where+Life+Sciences+meet+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&duration=3500&pause=900&color=EC4899&center=true&vCenter=true&multiline=true&width=780&height=110&lines=🌸+Hello+there%2C+I'm+Dorsane;🧬+Biotech+Engineer+%26+Web+Developer;🤖+Building+AI+for+Drug+Screening+%26+Oncology;💖+Where+Science+meets+Design+%26+Code" alt="Typing SVG" />
   </a>
 
 </div>
 
+<br/>
+
 <!-- ============ SOCIAL BADGES ============ -->
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=zdorsane&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/zdorsane?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1a2e" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20×%20Biotech-A855F7?style=for-the-badge&labelColor=1a1a2e" alt="focus" />
+
+  <img src="https://komarev.com/ghpvc/?username=zdorsane&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zdorsane?label=Followers&style=for-the-badge&color=F472B6&labelColor=831843" alt="followers" />
+  <img src="https://img.shields.io/badge/Made%20with-💖%20Passion-EC4899?style=for-the-badge&labelColor=831843" alt="passion" />
 
 </div>
 
@@ -27,69 +29,84 @@
 
 <!-- ============ ABOUT ME ============ -->
 <div align="center">
-  
-  ## 🌌 About Me
-  
+
+### 🌸 ────────────  About Me  ──────────── 🌸
+
 </div>
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding girl" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-```typescript
-const dorsane = {
-    pronouns: "She/Her",
-    location: "Constantine, Algeria 🇩🇿",
-    education: "Biotech Engineering @ ENSB",
-    role: "Full-Stack Dev & UI/UX Designer",
+```python
+class Dorsane:
+    def __init__(self):
+        self.name        = "Zertit Dorsane"
+        self.pronouns    = "She / Her 🌷"
+        self.location    = "Constantine, Algeria 🇩🇿"
+        self.education   = "Biotech Engineer @ ENSB"
+        
+    def passions(self):
+        return [
+            "🧬  AI × Drug Discovery × Oncology",
+            "💻  Crafting elegant web experiences",
+            "🎨  UI/UX with a feminine touch",
+            "📚  Learning at the science × tech edge"
+        ]
     
-    currentFocus: [
-        "🧬 ML for drug screening & oncology",
-        "🤖 AI applications in healthcare",
-        "🎨 Modern UI/UX experiences"
-    ],
+    def current_vibes(self):
+        return {
+            "building":  "Twin — ML for drug screening",
+            "learning":  "Deep Learning · Spring Boot",
+            "leading":   "TechWaves Club @ ENSB 🌊",
+            "dreaming":  "Of healing through code 💖"
+        }
     
-    techStack: {
-        frontend: ["React", "Next.js", "Tailwind"],
-        backend:  ["Python", "Django", "Node.js"],
-        ai_ml:    ["TensorFlow", "PyTorch", "Pandas"],
-        design:   ["Figma", "Adobe Suite"]
-    },
-    
-    leadership: "Leader @ TechWaves Club ENSB",
-    
-    funFact: "Studying biosensors by day, " +
-             "shipping websites by night 🧬💻"
-};
+    def fun_fact(self):
+        return ("I study biosensors by day "
+                "and design beautiful interfaces by night ✨")
 ```
 
 <br clear="right"/>
 
+<br/>
+
 <!-- ============ CURRENT WORK ============ -->
 <div align="center">
-  
-  ## ⚡ What I'm Working On
+
+### 💼 ──────────  Currently Building  ────────── 💼
 
 </div>
 
-<table>
+<br/>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🧬 Twin Project
-> ML-powered platform integrating AI into **drug screening** and **oncology research**. Bridging computational models with biological insights.
+#### 🧬 Twin Project
 
-`Python` `ML` `Healthcare` `Biotech`
+<img src="https://img.shields.io/badge/Status-In%20Progress-EC4899?style=flat-square&labelColor=831843" />
 
-🔗 [github.com/zdorsane/Twin](https://github.com/zdorsane/Twin)
+> A **Machine Learning** project bringing AI into  
+> **drug screening** and **oncology research**.  
+> Bridging biology with computational intelligence.
+
+`Python` · `Machine Learning` · `Healthcare` · `Biotech`
+
+🔗 **[github.com/zdorsane/Twin](https://github.com/zdorsane/Twin)**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🎨 Portfolio Biotech & Tech
-> Personal showcase combining scientific projects and creative web design. Built with modern tooling.
+#### 🎨 Biotech & Tech Portfolio
 
-`Next.js` `Tailwind` `Framer Motion`
+<img src="https://img.shields.io/badge/Status-Live-F472B6?style=flat-square&labelColor=831843" />
 
-🔗 [Live Demo →](https://v0-portfoliobiotech31-gamma.vercel.app/)
+> A personal showcase blending **scientific research**  
+> and **creative web design** in one elegant space.
+
+`Next.js` · `Tailwind` · `Framer Motion` · `Figma`
+
+🔗 **[Visit Portfolio →](https://v0-portfoliobiotech31-gamma.vercel.app/)**
 
 </td>
 </tr>
@@ -99,88 +116,91 @@ const dorsane = {
 
 <!-- ============ TECH STACK ============ -->
 <div align="center">
-  
-  ## 🛠️ Tech Arsenal
 
-</div>
+### 🛠️ ──────────  My Toolkit  ────────── 🛠️
 
-<div align="center">
+<br/>
 
-### 🎨 Frontend & Design
+#### 🎨 Frontend & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma,ps,ai&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma,ps,ai&perline=10&theme=light" />
 </p>
 
-### ⚙️ Backend & Databases
+#### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,postgres,mysql,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,postgres,mysql,firebase&perline=8&theme=light" />
 </p>
 
-### 🤖 AI / Machine Learning
+#### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab&perline=8" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab&perline=8&theme=light" />
+  <img src="https://img.shields.io/badge/Pandas-EC4899?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/NumPy-F472B6?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
 </p>
 
-### 🔧 Tools & Platforms
+#### 🔧 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,postman,linux&perline=8&theme=light" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ GITHUB STATS PINK THEME ============ -->
 <div align="center">
-  
-  ## 📊 GitHub Analytics
 
-  <a href="https://github.com/zdorsane">
-    <img src="https://github-readme-stats.vercel.app/api?username=zdorsane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdorsane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" height="180" />
-  </a>
+### 📊 ──────────  GitHub Analytics  ────────── 📊
 
-  <br/><br/>
+<br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdorsane&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zdorsane&show_icons=true&hide_border=true&title_color=EC4899&icon_color=F472B6&text_color=831843&bg_color=FFF1F2&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdorsane&layout=compact&hide_border=true&title_color=EC4899&text_color=831843&bg_color=FFF1F2&langs_count=8" height="180" />
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=zdorsane&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdorsane&hide_border=true&background=FFF1F2&ring=EC4899&fire=F472B6&currStreakLabel=EC4899&sideLabels=831843&dates=831843&stroke=EC4899" alt="streak" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdorsane&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="95%" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zdorsane&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&title=MultipleLang,Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="trophies" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdorsane&bg_color=FFF1F2&color=831843&line=EC4899&point=F472B6&area=true&hide_border=true&title_color=EC4899" width="95%" alt="activity graph"/>
 
 </div>
 
 <br/>
 
-<!-- ============ LEADERSHIP & ACHIEVEMENTS ============ -->
+<!-- ============ LEADERSHIP ============ -->
 <div align="center">
 
-## 🏆 Leadership & Community
+### 🌟 ──────────  Leadership & Community  ────────── 🌟
 
 </div>
+
+<br/>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
-  <h3>🌊 TechWaves Club</h3>
-  <p><b>Leader</b> @ ENSB</p>
-  <p>Running workshops, hackathons & tech events</p>
+  <img src="https://img.shields.io/badge/🌊-TechWaves-EC4899?style=for-the-badge&labelColor=831843" /><br/>
+  <b>Leader</b><br/>
+  <sub>ENSB · 2023 – Present</sub><br/>
+  <p>Running workshops, hackathons<br/>& dev events 💖</p>
 </td>
 <td align="center" width="33%">
-  <h3>📱 Huawei</h3>
-  <p><b>Student Ambassador</b></p>
-  <p>Leading campus tech activations</p>
+  <img src="https://img.shields.io/badge/📱-Huawei-F472B6?style=for-the-badge&labelColor=831843" /><br/>
+  <b>Student Ambassador</b><br/>
+  <sub>Constantine · 2024 – Present</sub><br/>
+  <p>Leading campus tech<br/>activations ✨</p>
 </td>
 <td align="center" width="33%">
-  <h3>🔧 Google GDSC</h3>
-  <p><b>Google Tools Manager</b></p>
-  <p>Training peers on dev tools</p>
+  <img src="https://img.shields.io/badge/🔧-GDSC-FB7185?style=for-the-badge&labelColor=831843" /><br/>
+  <b>Google Tools Manager</b><br/>
+  <sub>ENSB · 2023 – 2024</sub><br/>
+  <p>Training peers on<br/>Google dev tools 🌸</p>
 </td>
 </tr>
 </table>
@@ -189,37 +209,51 @@ const dorsane = {
 
 <!-- ============ CONNECT ============ -->
 <div align="center">
-  
-  ## 🌐 Let's Connect
 
-  <p>Got an interesting AI/Biotech project? A design challenge? <br/>I'd love to hear about it ✨</p>
+### 💌 ──────────  Let's Connect  ────────── 💌
+
+<br/>
+
+<p>
+  <em>Got an AI × Biotech idea? A design challenge?<br/>
+  Looking for a creative dev who codes with heart?<br/>
+  <b>Let's chat — I'd love to hear from you 🌷</b></em>
+</p>
+
+<br/>
 
   <a href="https://linkedin.com/in/zdorsane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
   </a>
   <a href="mailto:zdorsane223@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
   </a>
   <a href="https://v0-portfoliobiotech31-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=vercel&logoColor=white" height="42" />
   </a>
   <a href="https://github.com/zdorsane">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-831843?style=for-the-badge&logo=github&logoColor=white" height="42" />
   </a>
   <a href="https://kaggle.com/zdorsane">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Kaggle-FB7185?style=for-the-badge&logo=kaggle&logoColor=white" height="42" />
   </a>
+
+</div>
+
+<br/><br/>
+
+<!-- ============ QUOTE ============ -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=4500&pause=1200&color=EC4899&center=true&vCenter=true&width=800&lines=%22Bridging+biology+and+technology%2C+one+line+of+code+at+a+time.%22;%22Designing+the+future+of+healthcare%2C+with+heart+%26+precision.%22;%22She+who+dares+to+code%2C+dares+to+heal.+%F0%9F%8C%B7%22" alt="quotes" />
 
 </div>
 
 <br/>
 
-<!-- ============ QUOTE ============ -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%22Bridging+biology+and+technology%2C+one+project+at+a+time.%22" alt="quote" />
-
-</div>
-
 <!-- ============ FOOTER WAVE ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>Made with 💖 by <b>Dorsane Zertit</b> · ✨ 2026 ✨</sub>
+</div>

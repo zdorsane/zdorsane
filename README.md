@@ -106,7 +106,7 @@ class Dorsane:
 
 `Next.js` · `Tailwind` · `Framer Motion` · `Figma`
 
-🔗 **[Visit Portfolio →](https://v0-portfoliobiotech31-gamma.vercel.app/)**
+🔗 **[Visit Portfolio →](https://v0-portfolio-zertit-dorsane.vercel.app/)**
 
 </td>
 </tr>
